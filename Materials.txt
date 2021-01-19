@@ -1,0 +1,19 @@
+18
+Grass 1 120 255 120
+Wood 1 165 42 42
+Stone 2 50 50 50
+Bone 2 89 85 79
+Iron 3 80 80 80
+Steel 4 150 150 150
+Bronze 2 80 50 20
+Silver 3 192 192 192
+Gold 4 255 215 0
+Platinum 5 229 228 226
+Hellfire 6 255 0 0
+Angelsteel 6 0 255 255
+Moonlight 7 252 255 176
+Sunlight 7 255 147 51
+Starfire 10 255 255 255
+Technomagical 8 128 0 128
+Dragonscale 9 128 255 128
+Nightmatter 10 0 0 0

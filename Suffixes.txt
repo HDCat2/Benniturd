@@ -1,0 +1,11 @@
+10
+Might 4
+Sight 4
+Fright 4
+Night 4
+Dominion 6
+Resistance 5
+Authority 5
+Blight 4
+Death 8
+Keith 10

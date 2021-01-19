@@ -1,0 +1,5 @@
+2
+bandit desert 30 3 5 3 4 3 9 melee 5 15 10 6 0 27 64 0 0 0 null bandit 2
+scorpion desert 40 1 5 5 5 3 6 ranged 10 10 30 5 250 27 48 4 400 16 poison_green scorpion 1
+
+name spawnzone percentChanceOfSpawning veinSize(min) veinSize(max) walkFames walkCo actionFrames actionCo hitType xp hp dmg spd range atkspd size(width) pSpd pRange pSize pFile eFile dropMod
